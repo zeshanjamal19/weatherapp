@@ -43,6 +43,9 @@ nav{
     font-size: 1.1rem;
     color: white;
 }
+.super_script{
+    font-size: 2rem;
+}
 
 nav form button{
     padding: 0.9rem 1.2rem;
